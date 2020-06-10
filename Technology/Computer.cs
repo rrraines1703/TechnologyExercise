@@ -17,6 +17,7 @@ namespace Technology
             Ram = ram;
         }
 
+
         public string YourComputer()
         {
             return ("Thats a nice one!");
